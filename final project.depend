@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1610322103 source:o:\due\oop\programming projects\final project\main.cpp
+	<iostream>
+	<iomanip>
+	<string>
+
+1611241923 source:o:\due\oop\programming projects\oop final project\osama elsafty 3101070 part h.cpp
+	<iostream>
+	<iomanip>
+
